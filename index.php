@@ -17,5 +17,8 @@
             <li></li>
         </ul>
     </main>
+
+    <?php include 'components/footer.component.php';
+    ?>
 </body>
 </html>
