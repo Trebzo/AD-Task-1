@@ -1,3 +1,5 @@
+<?php include '../../components/header.component.php';?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +13,7 @@
         <div class="pet-list">
             <?php 
             $commonPets = array(
-                array("name" => "Buddy", "type" => "Dog", "breed" => "Golden Retriever", "age" => 2, "available" => true, "image" => "https://via.placeholder.com/300x200?text=Dog"),
+                array("name" => "Aldous", "type" => "Dog", "breed" => "Golden Retriever", "age" => 2, "available" => true, "image" => "assets/img/aldous.jpg"),
                array("name" => "Buddy", "type" => "Dog", "breed" => "Golden Retriever", "age" => 2, "available" => true, "image" => "https://via.placeholder.com/300x200?text=Dog"),
                 array("name" => "Buddy", "type" => "Dog", "breed" => "Golden Retriever", "age" => 2, "available" => true, "image" => "https://via.placeholder.com/300x200?text=Dog"),
                 array("name" => "Buddy", "type" => "Dog", "breed" => "Golden Retriever", "age" => 2, "available" => true, "image" => "https://via.placeholder.com/300x200?text=Dog"),
