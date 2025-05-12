@@ -1,3 +1,5 @@
+<?php include 'components/header.component.php';?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
