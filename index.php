@@ -15,11 +15,10 @@
         <p>Check out our available pets</p>
         <ul>
             <li><a href="page/common-pets/">Common Pets</a></li>
-            <li></li>
+            <li><a href="page/exotic-pets/">Exotic Pets</a></li>
         </ul>
     </main>
 
-    <?php include 'components/footer.component.php';
-    ?>
+    <?php include 'components/footer.component.php';?>
 </body>
 </html>
