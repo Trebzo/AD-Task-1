@@ -8,3 +8,27 @@ body{
     min-height: 100vh;
 }
 
+header{
+    background-color: #4caf50;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
+
+header h1{
+    margin: 0;
+}
+
+header ul{
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+}
+
+nav ul{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
