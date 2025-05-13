@@ -58,18 +58,16 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
+The website is about pet adoption from your every day animals to special and exotic ones.
+The Pet adoption website features the animals name, breed, age and their availability for adoption.
 
 Description of the project in details.
 
 ### Key Components
 
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+header -  which contains the navigation, links and the title.
+main content - which it displays the animals details, pictures, and descriptions.
+footer - which provides the copyright information.
 
 ### Technology
 
@@ -77,21 +75,7 @@ Description of the project in details.
 #### Language
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Framework/Library
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Rules, Practices and Principles
 
@@ -112,28 +96,44 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-TASK-1
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ styles.css
 |   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
+|   |   
 |   └─ js
-|       └─ name.js
+|       
 └─ components
-|   └─ name.component.php
+|   └─ footer.component.php
+    └─ header.component.php
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ name.css
-|     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
-|     └─ index.php
+|  └─ common-pets
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ common-pets.css
+|  |  |  └─ img
+|  |  |  |  └─ aldous.jpg
+|  |  |  |  └─ cooper.jpg
+|  |  |  |  └─ karina.jpg
+|  |  |  |  └─ rocky.jpg
+|  |  |  |  └─ selena.jpg
+|  |  |  └─ js
+|  |  |     
+|  |  └─ index.php
+|  └─ exotic-pets
+|      └─ assets
+|         └─ css
+|         |  └─ exotic-pets.css
+|         └─ img
+|         |  └─ chichi.jpg
+             └─ luto.jpg
+             └─ tuko.jpg
+|         └─ js
+|         |  
+|         └─ index.php
 └─ utils
-|   └─ Name.utils.php
+|   
 └─ index.php
 └─ readme.md
 ```
@@ -143,9 +143,15 @@ AD-ProjectName
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Title         | Purpose                                                      | Link                                                                               |
+| --------------| -----------------------------------------| ---------------------------------------------------------------------------------- |
+| aldous.jpg    | For Animal reference and Information  |https://heronscrossing.vet/wp-content/uploads/Golden-Retriever-1536x1024.jpg
+| cooper.jpg    | For Animal reference and Information  |https://d.newsweek.com/en/full/2084009/dachshund.jpg?w=1600&h=1200&q=88&f=c9a02b7c6ec196075f124f1a34eaaa71
+| karina.jpg    | For Animal reference and Information  |https://encrypted-tbn3.gstatic.com/images?  
+                                                        |q=tbn:ANd9GcRXXa3kjj1GcP_cowvEMEXTC95wibezcin_9eI2LI4DofpCrkiOMOx5nAFMQskusysPiyYta5EhT5wz4XHmw8iPnQ
+| rocky.jpg     | For Animal reference and Information  |https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS70HoYoG1xRn_MlZyk0TpCCvwzR1aVPLlC0pjUIceTP4mEHmcv  
+| selena.jpg    | For Animal reference and Information  |https://www.thesprucepets.com/thmb/TfufCgmHt6HU0MKh1PXCz41OGjU=/1098x0/filters:no_upscale():strip_icc()/ 
+                                                        |GettyImages-688581470-f1e9bbbf38324e39902cd9b091103786.jpg
+| chichi.jpg    | For Animal reference and Information  |https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiV4ycl3iN8f8AfnmESEdAxrVK9J8KGg4Dg&s
+| luto.jpg      | For Animal reference and Information  |https://reptilerapture.net/Ambystoma-mexicanum-Wild-Type-GFP-Axolotl_p_9154.html 
+| tuko.jpg      | For Animal reference and Information  |https://www.fearfreehappyhomes.com/leopard-geckos-for-beginners/
