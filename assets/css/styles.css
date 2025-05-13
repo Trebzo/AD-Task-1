@@ -2,7 +2,7 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #add9e6;
+    background-color: #f4f4f4;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -19,9 +19,6 @@ header h1{
     margin: 0;
 }
 
-header ul{
-    list-style-type: none;
-}
 ul{
     list-style-type: none;
 }
@@ -31,4 +28,87 @@ nav ul{
     display: flex;
     justify-content: center;
     margin-bottom: 0;
+}
+
+nav ul li{
+    margin: 0 10px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+main{
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.pet-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pet-card{
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pet-card img{
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.pet-card h3{
+    margin-top: 10px;
+}
+
+.pet-card p{
+    margin-bottom: 10px;
+}
+
+.available{
+    color: green;
+    font-weight: bold;
+}
+
+.not-available{
+    color: red;
+    font-weight: bold;
+}
+
+.back-button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.back-button:hover{
+    background-color: #45a049;
 }
