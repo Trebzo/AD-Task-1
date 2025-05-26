@@ -14,8 +14,8 @@
         <p>Find your new best friend today! From your everyday pets to special ones</p>
         <p>Check out our available pets</p>
         <ul>
-            <li><a href="page/common-pets/">Common Pets</a></li>
-            <li><a href="page/exotic-pets/">Exotic Pets</a></li>
+            <li><a href="page/common-pets/index.php">Common Pets</a></li>
+            <li><a href="page/exotic-pets/index.php">Exotic Pets</a></li>
         </ul>
     </main>
 
