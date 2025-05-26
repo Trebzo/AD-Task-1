@@ -141,15 +141,14 @@ AD-TASK-1
 
 <!-- TODO: Add References -->
 
-| Title         | Purpose                                                      | Link                                                                               |
-| --------------| -----------------------------------------| ---------------------------------------------------------------------------------- |
-| aldous.jpg    | For Animal reference and Information  |https://heronscrossing.vet/wp-content/uploads/Golden-Retriever-1536x1024.jpg
-| cooper.jpg    | For Animal reference and Information  |https://d.newsweek.com/en/full/2084009/dachshund.jpg?w=1600&h=1200&q=88&f=c9a02b7c6ec196075f124f1a34eaaa71
-| karina.jpg    | For Animal reference and Information  |https://encrypted-tbn3.gstatic.com/images?  
-                                                        |q=tbn:ANd9GcRXXa3kjj1GcP_cowvEMEXTC95wibezcin_9eI2LI4DofpCrkiOMOx5nAFMQskusysPiyYta5EhT5wz4XHmw8iPnQ
-| rocky.jpg     | For Animal reference and Information  |https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS70HoYoG1xRn_MlZyk0TpCCvwzR1aVPLlC0pjUIceTP4mEHmcv  
-| selena.jpg    | For Animal reference and Information  |https://www.thesprucepets.com/thmb/TfufCgmHt6HU0MKh1PXCz41OGjU=/1098x0/filters:no_upscale():strip_icc()/ 
-                                                        |GettyImages-688581470-f1e9bbbf38324e39902cd9b091103786.jpg
-| chichi.jpg    | For Animal reference and Information  |https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiV4ycl3iN8f8AfnmESEdAxrVK9J8KGg4Dg&s
-| luto.jpg      | For Animal reference and Information  |https://reptilerapture.net/Ambystoma-mexicanum-Wild-Type-GFP-Axolotl_p_9154.html 
-| tuko.jpg      | For Animal reference and Information  |https://www.fearfreehappyhomes.com/leopard-geckos-for-beginners/
+| Title             | Purpose                            | Link                                                                                                                           |
+| _________________| ____________________________________| ___________________________________________________________________________________________|
+| aldous.jpg        | For Animal reference and Information | https://heronscrossing.vet/wp-content/uploads/Golden-Retriever-1536x1024.jpg                                                  |
+| cooper.jpg        | For Animal reference and Information | https://d.newsweek.com/en/full/2084009/dachshund.jpg?w=1600&h=1200&q=88&f=c9a02b7c6ec196075f124f1a34eaaa71                    |
+| karina.jpg        | For Animal reference and Information | https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXXa3kjj1GcP_cowvEMEXTC95wibezcin_9eI2LI4DofpCrkiOMOx5nAFMQskusysPiyYta5EhT5wz4XHmw8iPnQ |
+| rocky.jpg         | For Animal reference and Information | https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS70HoYoG1xRn_MlZyk0TpCCvwzR1aVPLlC0pjUIceTP4mEHmcv                      |
+| selena.jpg        | For Animal reference and Information | https://www.thesprucepets.com/thmb/TfufCgmHt6HU0MKh1PXCz41OGjU=/1098x0/filters:no_upscale():strip_icc()/GettyImages-688581470-f1e9bbbf38324e39902cd9b091103786.jpg |
+| chichi.jpg        | For Animal reference and Information | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiV4ycl3iN8f8AfnmESEdAxrVK9J8KGg4Dg&s                                   |
+| luto.jpg          | For Animal reference and Information | https://reptilerapture.net/Ambystoma-mexicanum-Wild-Type-GFP-Axolotl_p_9154.html                                               |
+| tuko.jpg          | For Animal reference and Information | https://www.fearfreehappyhomes.com/leopard-geckos-for-beginners/                                                              |
+
