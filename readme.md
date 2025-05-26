@@ -142,7 +142,7 @@ AD-TASK-1
 <!-- TODO: Add References -->
 
 | Title           | Purpose                             | Link                                                                                       |
-| ________________| ____________________________________| ___________________________________________________________________________________________|
+| ----------------| ------------------------------------| -------------------------------------------------------------------------------------------|
 | aldous.jpg      | For Animal reference and Information| Google                                                                                     |
 | cooper.jpg      | For Animal reference and Information| Google                                                                                     |
 | karina.jpg      | For Animal reference and Information| Google                                                                                     |
